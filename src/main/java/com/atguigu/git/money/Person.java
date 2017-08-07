@@ -6,6 +6,7 @@ public class Person {
 		System.out.println("测试一下啊");
 		System.out.println("第二行加一行");
 		System.out.println("第三行加一行");
+		System.out.println("上传测试");
 	}
 
 }
